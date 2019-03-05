@@ -6,6 +6,4 @@ public class MainPlayground {
         System.out.println("Hello World");
 
     }
-
-
 }
